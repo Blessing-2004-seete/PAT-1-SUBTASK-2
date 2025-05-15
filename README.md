@@ -14,7 +14,7 @@ int main() {
 
     // Step 3: Check the difference between first and second readings
     if (increase > 50) {
-        cout << "Reduce fryer heat before taking the third reading." << endl;
+        cout << "Reduce fryer heat before taking the third reading." << endl;H
     } else if (increase < 10) {
         cout << "Increase the Fryer heat before taking the third reading." << endl;
     }
