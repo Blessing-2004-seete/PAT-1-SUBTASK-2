@@ -10,7 +10,6 @@ int main() {
     // Step 2: Input the second temperature
     cout << "Enter the second temperature reading (5 minutes later): ";
     cin >> temp2;
-
     int increase = temp2 - temp1;
 
     // Step 3: Check the difference between first and second readings
